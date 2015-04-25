@@ -5,6 +5,7 @@ date:   2015-04-24 18:23:00
 categories: book-review
 ---
 
+![Book Cover](/assets/stas.png) <br/>
 The publisher [No Starch Press](http://www.nostarch.com/) was kind enough to send me a review copy of [Statistics Done Wrong](http://www.amazon.com/Statistics-Done-Wrong-Woefully-Complete-ebook/dp/B00UMA61RE) by Alex Reinhart. I enjoyed book and recommend it for everyone to read. It's a relatively short read of about 130 pages and the kindle version is only $9.99.
 
 Alex starts off on the cover page with my favorite quote from Feynman, "The first principle is that you must not fool yourself and you are the easiest person to fool." This is my all time favorite quote because it encapsulates more of the essence of science than anything else I've read.
