@@ -21,6 +21,8 @@ The implications are obvious. There is less economic incentive for developing ne
 
 Intel's recent annoucement of a ~1 year delay to their 10nm architecture, Cannonlake, indicates that Moore's Law is at least severely strained.
 
+http://www.extremetech.com/computing/208968-report-claims-intel-will-delay-10nm-cannonlake-cpus-substitute-new-14nm-products
+
 Last year Intel's 14nm architecture, Broadwell, was also delayed by 6 months.
 
 - 65nm (Core), 3/2006
