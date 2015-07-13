@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "End of Moore's Law"
+---
+
+
 Is Moore's Law Over?
 
 Moore's Law has never been a physical law. It's observation due at least partly to economics.
@@ -26,5 +32,66 @@ Last year Intel's 14nm architecture, Broadwell, was also delayed by 6 months.
 
 
 
+<div id="container" style="width: 600px; height: 400px; margin: 0 auto"></div>
+<script type="text/javascript">
+$(function () {
+$('#container').highcharts({
+            chart: {
+                type: 'spline'
+            },
+            title: {
+                text: 'Process Nodes',
+                x: -20 //center
+            },
+            subtitle: {
+                text: 'Source: Wikipedia',
+                x: -20
+                },
+
+        xAxis: {
+            type: 'datetime',
+            dateTimeLabelFormats: { // don't display the dummy year
+                month: '%e. %b aaa',
+                year: '%b %y'
+            },
+            title: {
+                text: 'Date'
+            }
+        },
+            yAxis: {
+                title: {
+                    text: 'log(nm)'
+                    },
+                    min: 0,
+                    type: 'linear'
+                    },
+                    
+            tooltip: {
+                valueSuffix: ' (log nm)'
+            },
+        plotOptions: {
+            spline: {
+                marker: {
+                    enabled: true
+                }
+            }
+        },        series: [{
+            name: "Intel",
+            // Define the data points. All series have a dummy year
+            // of 1970/71 in order to be compared on the same x axis. Note
+            // that in JavaScript, months start at 0 for January, 1 for February etc.
+            data: [
+                [Date.UTC(2006, 3, 1), 4.17],
+                [Date.UTC(2007, 11, 1), 3.80],
+                [Date.UTC(2010, 01, 1), 3.46],
+                [Date.UTC(2012, 04, 1), 3.09],
+                [Date.UTC(2014, 10, 1), 2.64],
+                [Date.UTC(2017, 10, 1), 2.30],
+            ]
+        }]
+        });
+    });
+
+</script>
 
 
