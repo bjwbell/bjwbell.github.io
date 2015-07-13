@@ -7,6 +7,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bjwbell.github.io" # the base hostname & protocol for your site
 twitter_username: bjwbell
 github_username:  bjwbell
+analytics :
+  provider : google 
+  google : 
+      tracking_id : 'UA-759785-6'
 highlighter: pygments
 
 # Build settings
