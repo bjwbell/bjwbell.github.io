@@ -94,4 +94,4 @@ $('#container').highcharts({
 </script>
 
 
-It's difficult to tell from the graph but it is definitely no longer linear.
+It's difficult to tell from the graph but it is no longer linear.
