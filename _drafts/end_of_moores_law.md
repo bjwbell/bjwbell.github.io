@@ -4,33 +4,30 @@ title:  "End of Moore's Law"
 ---
 
 
-Is Moore's Law Over?
 
-Moore's Law has never been a physical law. It's observation due at least partly to economics.
 
-Problems with Moore's Law appeared a few years ago with Nvidia's 40nm to 28nm transition. Nvidia put out a presentation,
-http://www.extremetech.com/computing/123529-nvidia-deeply-unhappy-with-tsmc-claims-22nm-essentially-worthless,
-outlining the issues they had with their foundry, TSMC. 
+Moore's Law is over. It was never a physical law. It's an observation due at least partly to economics.
+
+Problems with Moore's Law appeared a few years ago with Nvidia's 40nm to 28nm transition. Nvidia put out a [presentation](http://www.extremetech.com/computing/123529-nvidia-deeply-unhappy-with-tsmc-claims-22nm-essentially-worthless)
+outlining issues they had with their foundry, TSMC. 
 Particularly the cost per transistor did not decrease with the 40nm to 28nm transistion. This was partly because 28nm uses [double patterning](https://en.wikipedia.org/wiki/Multiple_patterning) lithography.
 Double patterning is needed because extreme ultraviolet (EUV) lithography has faced setbacks & delays.
 
 This was the first time that shrinking the process node yielded no economic benefit.
-The implications are obvious. There is less economic incentive for developing new process nodes.
+The implications are obvious. There is less economic incentive for switching to or developing new process nodes.
 
 
 
-Intel's recent annoucement of a ~1 year delay to their 10nm architecture, Cannonlake, indicates that Moore's Law is at least severely strained.
+Intel's recent announcement of a ~1 year [delay](http://www.eweek.com/pc-hardware/intel-confirms-delay-in-10nm-processors-to-2017.html) for their 10nm architecture to 2017 also indicates that Moore's Law is at least severely strained. Intel's current 14nm architecture, Broadwell, was also delayed by 6 months.
 
-http://www.extremetech.com/computing/208968-report-claims-intel-will-delay-10nm-cannonlake-cpus-substitute-new-14nm-products
 
-Last year Intel's 14nm architecture, Broadwell, was also delayed by 6 months.
 
 - 65nm (Core), 3/2006
 - 45nm (Penryn), 11/2007 
 - 32nm (Westmere), 1/2010
 - 22nm (Ivybridge), 4/2012
 - 14nm (Broadwell), 10/2014
-- 10nm (Cannonlake), ?
+- 10nm (Cannonlake), 6/2017
 
 
 
@@ -42,7 +39,7 @@ $('#container').highcharts({
                 type: 'spline'
             },
             title: {
-                text: 'Process Nodes',
+                text: 'Intel Process Nodes',
                 x: -20 //center
             },
             subtitle: {
@@ -88,7 +85,7 @@ $('#container').highcharts({
                 [Date.UTC(2010, 01, 1), 3.46],
                 [Date.UTC(2012, 04, 1), 3.09],
                 [Date.UTC(2014, 10, 1), 2.64],
-                [Date.UTC(2017, 10, 1), 2.30],
+                [Date.UTC(2017, 6, 1), 2.30],
             ]
         }]
         });
@@ -97,3 +94,4 @@ $('#container').highcharts({
 </script>
 
 
+It's difficult to tell from the graph but it is definitely no longer linear.
