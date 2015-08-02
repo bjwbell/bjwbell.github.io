@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Statistics Done Wrong"
+title:  "Book Review - Statistics Done Wrong"
 date:   2015-04-24 18:23:00
 categories: book-review
 ---
