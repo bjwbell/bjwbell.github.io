@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial Post"
+title:  "New Site"
 date:   2015-04-24 14:25:20
 categories: 
 ---
