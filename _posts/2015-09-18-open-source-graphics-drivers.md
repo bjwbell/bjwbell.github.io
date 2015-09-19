@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Open & Closed Source Graphics Drivers"
+date:   2015-09-18 18:55:00
+categories:
 ---
 Open source graphics drivers are becoming more competitive with closed source drivers. Phoronix.com recently benchmarked AMD, "[Latest Open-Source RadeonSI Driver Moves On To Smacking Catalyst](http://www.phoronix.com/scan.php?page=article&item=radeonsi-cat-wow&num=1)", and the open source driver beat the Catalyst driver in some cases. This would have been shocking 3-5 years ago. 
 
