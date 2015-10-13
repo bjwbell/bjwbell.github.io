@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Bryan Bell
-<br/>I program and sometimes write.
+<br/>I code.
 <br/>[Resume](https://bjbell.wordpress.com/resume/).
 
 
