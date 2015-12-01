@@ -13,3 +13,6 @@ In the YouTube clip, [Don't Talk to Cops, Part 2](http://www.youtube.com/watch?v
 Part of one of the examples, in the proposed Go Community Code of Conduct, says: "S reports the incident to the CoC Working Group" (about J). At this point how does J feel? Respected or demeaned and insulted (the incident details are unimportant). I've seen it go both ways. Some were handled with the same sort of understanding as the speaker in the YouTube clip and some were not.
 
 Read how the example ends. At the conclusion of the example, if I was J, I'd feel aweful,  humiliated and insignificant.
+
+
+*[Edit 11/30]* I have to eat my words, the Go CoC at [https://golang.org/conduct](https://golang.org/conduct) is much improved over what was originally proposed.
