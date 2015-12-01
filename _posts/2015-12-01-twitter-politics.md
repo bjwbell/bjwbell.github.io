@@ -2,7 +2,7 @@
 layout: post
 title:  "Don't be a Pundit on Twitter"
 date:   2015-12-01 12:35:00
-categories:politics
+categories: politics
 ---
 Except for political pundits, general politics doesn't belong on Twitter. It's of little value to followers and is a negative to most [1]. The Hacker News guideline, ["If they'd cover it on TV news, it's probably off-topic"](https://news.ycombinator.com/newsguidelines.html), applies to Twitter too.
 
