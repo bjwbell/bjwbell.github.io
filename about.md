@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Bryan Bell
-<br/>I code.
-<br/>[Resume](https://bjbell.wordpress.com/resume/).
-
-
-
-Previous wordpress blog, [https://bjbell.wordpress.com/](https://bjbell.wordpress.com/).<br/>
-Europe vacation blog, summer 2006, [Europics](http://www.europics.wordpress.com/).
+[Resume](https://bjbell.wordpress.com/resume/)<br>
+Previous blog, [https://bjbell.wordpress.com/](https://bjbell.wordpress.com/).<br/>
+Backpacking Europe, summer 2006, [Europics](http://www.europics.wordpress.com/).
