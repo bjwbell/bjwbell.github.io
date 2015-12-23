@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Don't be a Pundit on Twitter"
+title:  "Don't be a Twitter Pundit"
 date:   2015-12-01 12:35:00
 categories: politics
 ---
